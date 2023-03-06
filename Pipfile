@@ -9,7 +9,6 @@ django = "*"
 python-dotenv = "*"
 psycopg2 = "*"
 whitenoise = "*"
-django-heroku = "*"
 waitress = "*"
 django-waitress = "*"
 
